@@ -5,7 +5,7 @@
 
 ## 🚀 About Me
 
-- 🎓 Second-year **cybersecurity student**
+- 🎓 Third year **cybersecurity student**
 - 🔐 Interested in **purple teaming, data science, artificial intelligence**
 - 💻 Building projects with **React, Spring Boot, FastAPI, LangChain, and AI**
 - 🌍 Languages: **English, French, Arabic**
